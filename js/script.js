@@ -255,7 +255,7 @@ function winGame() {
 
 function restart() {
     xp = 0;
-    console.log("restart xp" + xp);
+    // console.log("restart xp" + xp);
     health = 100;
     gold = 50;
     currentWeapon = 0;
